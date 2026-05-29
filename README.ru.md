@@ -1,5 +1,11 @@
 # Руководство по настройке Xray Reality VPN
 
+![GitHub stars](https://img.shields.io/github/stars/routeveil/xray-reality-guide?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Works in China](https://img.shields.io/badge/works%20in-China%20🇨🇳-red?style=flat-square)
+![Works in Russia](https://img.shields.io/badge/works%20in-Russia%20🇷🇺-blue?style=flat-square)
+![Protocol](https://img.shields.io/badge/protocol-Xray%20Reality-purple?style=flat-square)
+
 Как поднять приватный VPN-сервер, который реально работает в России, Китае, Иране и Турции — на протоколе Xray Reality.
 
 [English](README.md) · [中文](README.zh.md) · Русский
